@@ -1,0 +1,21 @@
+streamlit
+langchain
+langchain-community
+groq
+python-dotenv
+pypdf
+requests
+SpeechRecognition
+pyaudio
+pygame
+
+# RAG essentials
+faiss-cpu
+sentence-transformers
+transformers
+torch
+
+# optional but recommended
+tiktoken
+numpy
+scikit-learn
