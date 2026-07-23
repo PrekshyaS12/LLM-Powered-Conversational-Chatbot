@@ -88,7 +88,7 @@ This is implemented as a small state graph using **LangGraph**, with conditional
 
 4. **Run the app**
    ```bash
-   streamlit run app.py
+   streamlit run chatbot.py
    ```
 
 5. **Try it out**
